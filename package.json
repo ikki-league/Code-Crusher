@@ -25,7 +25,8 @@
     "start": "ts-node ./scripts/start.ts -- --build-viewer",
     "test:editor": "ts-node ./scripts/test-editor.ts",
     "test:platform": "lerna exec --scope @noodl/platform-node -- npm test",
-    "prepare": "husky"
+    "prepare": "husky",
+    "clean": "lerna clean -y"
   },
   "devDependencies": {
     "@commitlint/cli": "^19.3.0",
