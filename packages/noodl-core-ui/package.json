@@ -41,29 +41,14 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
-  "devDependencies": {
-    "@storybook/addon-actions": "6.5.12",
-    "@storybook/addon-essentials": "6.5.9",
-    "@storybook/addon-interactions": "6.5.12",
-    "@storybook/addon-links": "6.5.9",
-    "@storybook/addon-measure": "6.5.9",
+  "devDependencies": {    
     "@storybook/addons": "6.5.9",
-    "@storybook/builder-webpack5": "6.5.12",
-    "@storybook/manager-webpack5": "6.5.9",
-    "@storybook/node-logger": "6.5.9",
-    "@storybook/preset-create-react-app": "^4.1.2",
     "@storybook/react": "6.5.9",
-    "@storybook/testing-library": "^0.0.13",
     "@storybook/theming": "6.5.9",
-    "@types/jest": "^27.5.2",
     "@types/node": "^16.11.42",
     "@types/react": "^17.0.3",
     "@types/react-dom": "^18.0.0",
-    "babel-plugin-named-exports-order": "^0.0.2",
-    "prop-types": "^15.8.1",
-    "sass": "^1.53.0",
     "typescript": "^4.7.4",
-    "web-vitals": "^3.0.3",
     "webpack": "^5.74.0",
     "ts-loader": "^9.3.1"
   }
