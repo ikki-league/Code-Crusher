@@ -79,7 +79,7 @@
     "md5": "^2.3.0",
     "md5-file": "^5.0.0",
     "mixpanel-browser": "^2.45.0",
-    "mkdirp": "0.5.1",
+    "mkdirp": "^0.5.6",
     "mkdirp-sync": "0.0.2",
     "monaco-editor": "^0.34.0",
     "react": "^17.0.2",
@@ -89,12 +89,10 @@
     "react-json-view": "^1.21.3",
     "react-rnd": "^10.3.7",
     "remarkable": "^2.0.1",
-    "s3": "git+https://github.com/noodlapp/node-s3-client.git",
     "string.prototype.matchall": "^4.0.7",
     "underscore": "^1.13.6",
     "webpack": "^5.74.0",
-    "websocket-stream": "^5.5.2",
-    "ws": "^8.9.0"
+    "ws": "^8.18.0"
   },
   "devDependencies": {
     "@babel/core": "^7.19.1",
@@ -123,7 +121,7 @@
     "rimraf": "^3.0.2",
     "sass": "^1.55.0",
     "sass-loader": "^12.6.0",
-    "stringify": "^5.2.0",
+    "stringify": "^2.2.0",
     "style-loader": "^3.3.1",
     "ts-loader": "^9.4.1",
     "ts-node": "^10.7.0",
